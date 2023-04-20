@@ -1,6 +1,6 @@
 ### Hello! 👋
 
-Hey, I am Bryan, an aspiring entrepreneur.
+Hey, I am Bryan, an aspiring technopreneur.
 
 - 💻 Currently studying Business Analytics and Statistics at National University of Singapore (NUS)
 - 🌱 I’m currently learning Solidity and Vue
