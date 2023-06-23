@@ -3,7 +3,7 @@
 Hey, I am Bryan, an aspiring technopreneur.
 
 - 💻 Currently studying Business Analytics and Statistics at National University of Singapore (NUS)
-- 🌱 I’m currently learning Solidity and Vue
+- 🌱 I’m currently learning Ruby on Rails!
 - 🔨 Learning how to build full-stack web applications!
 
 #### Connect with me on socials!
