@@ -16,4 +16,4 @@ SWE @ Padlet
 ### Statistics
 [![Bryan's GitHub stats](https://github-readme-stats-tau-ten-58.vercel.app/api?username=bryanwonggy&count_private=true&show_icons=true)](https://github.com/bryanwonggy)
 
-[![Bryan's Tropies](https://github-profile-trophy.vercel.app/?username=bryanwonggy&margin-w=5&margin-h=5&column=5&no-bg=true)](https://github.com/bryanwonggy)
+[![Bryan's Tropies](https://github-profile-trophy-dun.vercel.app/?username=bryanwonggy&margin-w=5&margin-h=5&column=5&no-bg=true)](https://github.com/bryanwonggy)
