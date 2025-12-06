@@ -1,10 +1,8 @@
 ### Hello! 👋
 
-SWE @ Padlet
+Founding Engineer @ Cervo AI
 
-- 💻 Currently studying Business Analytics and Statistics at National University of Singapore (NUS)
-- 🌱 I’m currently learning Ruby on Rails!
-- 🔨 Shipping cool things every day!
+🔨 Shipping cool things every day.
 
 #### Connect with me on socials!
 [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" width="40" height="40">](https://www.linkedin.com/in/bryan-wong-4865a81ab/) 
