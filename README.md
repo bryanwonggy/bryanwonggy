@@ -1,6 +1,6 @@
 ### Hello! 👋
 
-Founding Engineer @ Cervo AI
+Staff Software Engineer @ Altana AI
 
 🔨 Shipping cool things every day.
 
